@@ -1,0 +1,2 @@
+# Module6CourseProject
+Healthy Happy You is an application serving as a sort of forum to share and motivate each other through the workout process. It consists of helping beginners through the start of the process and integrating a lifestyle that works for each individual. Through the use of coaching and support, Healthy Happy You is determined to reach out to any and everyone wanting to change their lives.
